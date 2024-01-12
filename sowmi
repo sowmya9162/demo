@@ -1,4 +1,4 @@
 import streamlit as st
-st.header('puppy')
-st.write('puppy')
+st.header('power star')
+st.write('pawan kalyan')
 st.image("https://images.indianexpress.com/2021/03/pawan-kalyan.jpg")
